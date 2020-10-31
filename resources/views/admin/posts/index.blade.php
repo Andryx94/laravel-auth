@@ -3,7 +3,7 @@
 @section('content')
   <div class="container">
     <div class="row">
-      <h1>Elenco dei nostri Post:</h1>
+      <h1>Ciao {{$user->name}}, ecco l'elenco dei nostri Post:</h1>
 
 
       <div class="col-12">

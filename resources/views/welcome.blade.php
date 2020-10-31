@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="{{route('guest.index')}}">Posts</a>
+                    <a href="{{route('guest.posts.index')}}">Posts</a>
                 </div>
             </div>
         </div>
